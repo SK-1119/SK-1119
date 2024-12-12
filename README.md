@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# Welcome to SK-1119's GitHub Profile!
 
 Hi there 👋, welcome to my GitHub!  
 I’m Kunal Sukhija, a Machine Learning and Data Science Enthusiast.
@@ -24,5 +24,3 @@ I’m Kunal Sukhija, a Machine Learning and Data Science Enthusiast.
 - Student Portal
 
 ## Email me at kunalsoldier24@gmail.com or Contact at 8278469997 for access to those repositories
-## Or if you are a recruiter and came here from my resume simply click on any project in Resume you will be redirected to Codespace for that Project
-
