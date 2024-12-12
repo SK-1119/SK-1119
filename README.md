@@ -13,6 +13,16 @@ I’m Kunal Sukhija, a Machine Learning and Data Science Enthusiast.
   - tkinter
   - pandas
   - numpy
+- Java
+  - springboot
+- Databases
+  - MySQL
+  - PostgreSQL
+- Front End
+  - React
+  - HTML
+  - CSS
+  - JavaScript
 
 ## Projects Available on my Github
 - Digit Recognition System
