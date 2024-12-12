@@ -1,7 +1,7 @@
 # Welcome to SK-1119's GitHub Profile!
 
 Hi there 👋, welcome to my GitHub!  
-I’m Kunal Sukhija, a Machine Learning and Data Science Enthusiast.
+I’m Kunal Sukhija, a Machine Learning and Data Science Enthusiast currently Working as SDE1 @ Fareye Technologies.
 
 ## Technologies I've Worked On
 - Python for Data Analysis,Visualisation,Machine Learning and Deep Learning using:
